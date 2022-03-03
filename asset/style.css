@@ -1,0 +1,41 @@
+.jumbotron {
+    background-image: url(foto/jumbotron.jpg);
+    background-size: cover;
+    height: 650px;
+}
+
+.jumbotron .display-4 {
+    color: blue;
+}
+
+.card h2 {
+    margin-top: -10px;
+    margin-bottom: 5px;
+}
+
+.row .card:hover {
+    box-shadow: 2px 2px 2px rgb(0, 0, 0, 0.4);
+    transform: scale(1.02);
+}
+
+/* .card-body {
+    background-color: rgb(89, 124, 189);
+    color: rgb(243, 240, 240);
+} */
+
+.judul h2 {
+    text-align: center;
+    margin: 100px 100px;
+}
+
+.row .col-lg-3 {
+    margin-bottom: 10px;
+}
+
+.konten {
+    margin-top: 100px;
+}
+
+section {
+    margin: 100px;
+}
